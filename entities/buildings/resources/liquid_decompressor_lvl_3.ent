@@ -44,7 +44,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				group 			"local_compressed"
-				value			"1000"
+				value			"300"
 				family			"production"
 			}
 
@@ -62,7 +62,7 @@ EntityBlueprint
 				group 			"local"
 				family			"production"
 				attachment		"att_out_1"
-				value			"1000"
+				value			"300"
 			}
 		}
 		priority 4

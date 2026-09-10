@@ -48,7 +48,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"mud"
-				value			 	"500"
+				value			 	"450"
 				attachment			"att_in_1"
 				family				"in"
 			}
@@ -56,7 +56,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"sludge"
-				value			 	"1000"
+				value			 	"900"
 				attachment			"att_in_1"
 				family				"in"
 			}
@@ -67,7 +67,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"water"
-				value 				"500"
+				value 				"450"
 				attachment			"att_out_1"
 			}
 		}
@@ -81,7 +81,7 @@ EntityBlueprint
 			Storage
 			{
 				resource	 "water"
-				max 	 		"2000"
+				max 	 		"1800"
 				attachment		"att_out_1"
 			}
 		}

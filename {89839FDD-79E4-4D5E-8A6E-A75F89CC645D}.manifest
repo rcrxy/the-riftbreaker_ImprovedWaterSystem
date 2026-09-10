@@ -8,11 +8,11 @@ WorkspaceManifest
 
 	modified_game_files
 	title "SW1wcm92ZWQgV2F0ZXIgU3lzdGVt"
-	homepage
+	homepage "https://github.com/rcrxy/the-riftbreaker_ImprovedWaterSystem"
 	modio_published_file "0"
 	visibility "0"
 	game_version "EXE: 1186 DATA: 847"
-	version "0.1.2"
+	version "0.1.3"
 	localizations
 	{
 		Pair_String_Localization
